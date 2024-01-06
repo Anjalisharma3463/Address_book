@@ -17,7 +17,7 @@ do{
 int Option;               //Main menu
     cout << "----------------------Address Book-----------------------------" << endl;
     cout << "\n";
-    cout << "What would you like to do?" << endl;
+    cout << "What would you like to do ?" << endl;
     cout << "1.) Add Contact" << endl;
     cout << "2.) Edit Contact" << endl;
     cout << "3.) Delete Contact" << endl;
